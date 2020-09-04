@@ -2,7 +2,7 @@
   "name": "hw",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stu-griffin.github.io/HW1",
+  "homepage": "https://stu-griffin.github.io/HW1-react",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
