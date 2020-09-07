@@ -14,3 +14,6 @@
 .amount {
     margin-left: 0.5rem;
 }
+.key{
+    visibility: hidden;
+}
